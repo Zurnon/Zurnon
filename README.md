@@ -8,3 +8,6 @@ After taking a Python introductory course in high school, I quickly developed a 
 - Exploring and practicing with my favorite languages: **C++** and **Python**.  
 - Building projects and experimenting with new ideas.  
 - looking for collaboration opportunities
+
+Discord: Zurnon          
+Email: traelynstone669@gmail.com

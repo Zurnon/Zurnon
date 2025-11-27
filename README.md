@@ -10,4 +10,3 @@ After taking a Python introductory course in high school, I quickly developed a 
 - looking for collaboration opportunities
 
 Discord: Zurnon          
-Email: traelynstone669@gmail.com

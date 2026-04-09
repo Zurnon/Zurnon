@@ -9,4 +9,5 @@ After taking a Python introductory course in high school, I quickly developed a 
 - Building projects and experimenting with new ideas.  
 - looking for collaboration opportunities
 
+dont have alot of commits most of my time is spent just learning and messing around with stuff
 Discord: Zurnon          

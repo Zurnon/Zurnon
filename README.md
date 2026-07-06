@@ -1,6 +1,6 @@
 ## Hi there I'm Zurnon  
 
-I'm a 16-year-old from Canada who started my coding journey in February 2025.  
+I'm a 17-year-old from Canada who started my coding journey in February 2025.  
 After taking a Python introductory course in high school, I quickly developed a strong passion for coding, and now I aspire to become a software developer/engineer one day.  
 
 ### What I'm up to
